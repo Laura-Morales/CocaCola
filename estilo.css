@@ -1,0 +1,377 @@
+@media (min-width: 250px) and (max-width: 768px) { 
+ 
+.fondo{
+	background-color: #0d0d0d;
+	height: 410px;
+	width: 100%;
+	position: relative;
+	z-index: 1;
+}
+.logococacola{
+	height: 90px;
+	width: 100%;
+	margin-top: 30px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 2;
+	
+}
+
+.cocacolatext{
+	height: 800px;
+	width: 100%;
+	padding-bottom: 350px;
+	margin-left: 40px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 3;
+}
+
+.botella{
+	height: 280px;
+	width: 100%;
+	margin-top: 100px;
+	padding-right: 20px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 4;
+}
+
+.barralat{
+	height: 1000px;
+	width: 100%;
+	padding-bottom: 500px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 5;
+}
+
+.botones{
+	height: 430px;
+	width: 100%;
+	margin-top: 60px;
+	padding-right: 20px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 6;
+}
+  .sm-cnt {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom :15px;
+  }
+
+.form #boton{
+	display: block;
+	margin: auto;
+}
+
+  .altura5{
+	height: 450px;
+	margin-bottom: 10px;
+	background-color: #009c8c;
+}
+  .figura4{
+
+	display: block;
+	margin: auto;
+	margin-top: 30px;
+	width: 12%;
+
+}
+
+.figura5{
+
+	display: block;
+	margin: auto;
+	margin-top: 13px;
+	width: 13%;
+
+}
+.figura6{
+
+	float: right;
+	margin-top: -85px;
+	margin-right: 80px ;
+	width: 12%;
+
+}
+.figura7{
+
+	float: right;
+	margin-top: -31px ;
+    margin-right: 80px ;
+	width: 13%;
+
+}
+
+.figura8{
+
+	float: left;
+	margin-top: -85px ;
+    margin-left: 80px ;
+	margin-bottom: 10px;
+	width: 13%;
+}
+.figura9{
+
+	float: left;
+	margin-top: -40px ;
+	margin-left: 80px;
+	width: 15%;
+}
+
+
+}
+
+.redondo{
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+}
+
+.figura1{
+
+	float: right;
+	margin-right: 05px;
+	margin-top: 90px;
+	width: 08%;
+
+}
+
+.figura2{
+
+	float: left;
+	margin-right: 05px;
+	margin-top: 90px;
+	width: 08%;
+
+}
+
+.figura3{
+
+	display: block;
+    margin: 12% 20% 12% 40%;
+
+}
+.altura2{
+	height: 250px;
+	text-align: center;
+	font-family: Dayrom, serif;
+	font-size: 2em;
+	margin-bottom: 10px;
+	background-color: teal 
+}
+.altura4{
+	background-color: teal 
+
+}
+
+@media (min-width: 768px) and (max-width: 1600px) {
+
+.mimenu	{
+		
+  	align-items: center;
+	justify-content: center;
+  	
+}
+
+.menu{
+	align-items: center;
+	justify-content: center;
+}
+
+.fondo{
+	background-color: #0d0d0d;
+	height: 600px;
+	width: 100%;
+	position: relative;
+	z-index: 1;
+}
+.logococacola{
+	height: 150px;
+	width: 100%;
+	margin-top: 30px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 2;
+	
+}
+
+.cocacolatext{
+	height: 800px;
+	width: 100%;
+	padding-bottom: 300px;
+	margin-left: 15px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 3;
+}
+
+.botella{
+	height: 430px;
+	width: 100%;
+	margin-top: 100px;
+	margin-bottom: 280px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 4;
+}
+
+.barralat{
+	height: 900px;
+	width: 100%;
+	padding-right: 250px;
+	padding-bottom: 280px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 5;
+}
+
+.botones{
+	height: 430px;
+	width: 100%;
+	margin-top: 100px;
+	margin-left: 170px;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	z-index: 6;
+}
+.altura{
+	height: 60%;
+	text-align: center;
+	font-family: Dayrom, serif;
+	font-size: 2em;
+	margin-bottom: 10px;
+
+}
+
+
+.altura3{
+	height: 80%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+
+.altura4{
+	background-color: teal; 
+	height: 300px;
+	margin-bottom: 10px;
+	
+}
+
+.altura5{
+	height: 250px;
+	margin-bottom: 10px;
+	background-color: #009c8c;
+}
+
+.altura6{
+
+	height: 40px;
+	background-color: teal
+	
+}
+
+.form #boton{
+	display: block;
+	margin: auto;
+}
+
+.figura4{
+
+	display: block;
+	margin: auto;
+	margin-top: 30px;
+	width: 12%;
+
+}
+
+.figura5{
+
+	display: block;
+	margin: auto;
+	margin-top: 13px;
+	width: 13%;
+
+}
+.figura6{
+
+	float: right;
+	margin-top: -95px;
+	margin-right: 115px;
+	width: 12%;
+
+}
+.figura7{
+
+	float: right;
+	margin-top: -20px;
+	margin-right: 112px;
+	width: 13%;
+
+}
+
+.figura8{
+
+	float: left;
+	margin-top: -100px;
+	margin-left: 115px;
+	margin-bottom: 10px;
+	width: 13%;
+}
+.figura9{
+
+	float: left;
+	margin-top: -32px;
+	margin-left: 115px;
+	width: 15%;
+}
+
+}
+
+body p{
+	font-family: Dayrom, serif;
+	font-size: 2em;
+	text-align: center;
+	padding-top: 10px;
+	font-weight: normal;	
+}
+
+#redes{
+	font-family: Dayrom, serif;
+	font-size: 1.5em;
+	margin-top: 10px;
+	margin-right: 80px;
+	font-weight: normal;
+	text-align: center;
+
+}
+
+#contacto{
+	font-family: Dayrom, serif;
+	font-size: 1.5em;
+	margin-top: 10px;
+	font-weight: normal;
+	text-align: center;
+}
+
+.center{
+	display: flex;
+	margin: auto;
+}
+.cl{
+	font-family: arial;
+}
+    
